@@ -5,7 +5,7 @@
   "prevPage": null,
   "nextPage": 2,
   "links": {
-  "nextPage": "http://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/?page=2",
+  "nextPage": "https://data.bioportal.lirmm.fr/ontologies/CISP-2/classes/?page=2",
   "prevPage": null
 },
   "collection": [
